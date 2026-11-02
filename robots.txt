@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://root-phantom.github.io/shahoveisi/sitemap.xml
